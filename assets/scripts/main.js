@@ -1,4 +1,4 @@
-// main.js
+// main.js /
 
 // Run the init() function when the page has loaded
 window.addEventListener('DOMContentLoaded', init);
